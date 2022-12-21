@@ -1,4 +1,4 @@
-<h2>Information</h2>
+
 <h1>Wardix Network - Minecraft Server</h1>
 <li>Store > https://store.wardix.tk</li>
 <li>IP > wardix.ml</li>
