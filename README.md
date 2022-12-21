@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @QuentyPL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-QuentyPL/QuentyPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2>etstt</h2>
+<h2>Information</h2>
+<h1>Wardix Network - Minecraft Server</h1>
+<li>Store > https://store.wardix.tk</li>
+<li>IP > wardix.ml</li>
+<li>Discord > https://dsc.gg/wardixnetwork</li>
+<li>VK > https://vk.com/wardixnetwork </li>
+<center> <center>
+Coming Soon!
