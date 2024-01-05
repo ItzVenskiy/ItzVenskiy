@@ -3,4 +3,3 @@
  
 [![ItzVenskiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzvenskiy&theme=dark&show_icons=true&hide_border=true&disable_animations=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)  
 
-![My website](https://itzvenskiy.github.io)
